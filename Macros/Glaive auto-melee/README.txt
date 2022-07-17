@@ -1,3 +1,9 @@
+contains:
+DestinyGlaiveMeleeSpam.ahk
+	- source code
+DestinyGlaiveMeleeSpam.exe
+	- macro executable
+
 How this macro works:
 In Destiny 2, currently there is an active exploit for the glaives, where the melee can be cancelled part-way through and another melee can be thrown. This is similar to the BXR trick of Halo 2. The glaive melee speed can be increased by hitting:
 
